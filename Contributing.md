@@ -2,7 +2,7 @@
   Student at NIT Raipur
   Maintainer of this repository.
 
-# Name: Your Name
-  profession
-  roles
-  what work you did in the hacktoberfest.. (Copy this template)
+# Name: Vijay Kumar Jaripity
+  2023 B.tech passed out student 
+  fullstack developer 
+  (good at frontend development and learning backend as well)
